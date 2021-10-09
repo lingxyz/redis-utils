@@ -26,10 +26,6 @@ import java.time.Duration;
 
 /**
  * Redis缓存配置类
- * todo:
- * 1. reids utils
- * 2. 配置查询自动走redis缓存
- * 3. 登录拦截器
  */
 @Configuration
 @EnableCaching

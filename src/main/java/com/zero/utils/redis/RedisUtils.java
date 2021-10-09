@@ -8,6 +8,9 @@ import java.io.Serializable;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * Redis快捷方法工具类
+ */
 @Service
 public class RedisUtils {
 	@Autowired
